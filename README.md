@@ -1,6 +1,5 @@
 # Docker-Google-RDP-Desktop-NoMachine
 
-<img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/SahrulGunawan-ID/Google-RDP-Desktop-NoMachine?color=red&label=FILES%20TOTALS%20&logo=Github%20Repo&logoColor=green&style=for-the-badge">
 
 *Ubuntu Desktop on NoMachine*
 
